@@ -2,14 +2,14 @@
   Cross-Origin-Opener-Policy: same-origin
   Cross-Origin-Embedder-Policy: require-corp
 
-/*.br
+/Build/*.br
   Content-Encoding: br
 
-/*.wasm
+/Build/*.wasm
   Content-Type: application/wasm
 
-/*.js
+/Build/*.js
   Content-Type: application/javascript
 
-/*.data
+/Build/*.data
   Content-Type: application/octet-stream
