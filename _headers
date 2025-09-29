@@ -1,3 +1,15 @@
 /*
   Cross-Origin-Opener-Policy: same-origin
   Cross-Origin-Embedder-Policy: require-corp
+
+/*.br
+  Content-Encoding: br
+
+/*.wasm
+  Content-Type: application/wasm
+
+/*.js
+  Content-Type: application/javascript
+
+/*.data
+  Content-Type: application/octet-stream
