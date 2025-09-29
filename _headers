@@ -1,15 +1,16 @@
 /*
   Cross-Origin-Opener-Policy: same-origin
   Cross-Origin-Embedder-Policy: require-corp
+  X-Content-Type-Options: nosniff
 
-/*br
+/*.br
   Content-Encoding: br
 
-/*wasm*
+/*.wasm.br
   Content-Type: application/wasm
 
-/*js*
+/*.framework.js.br
   Content-Type: application/javascript
 
-/*data*
+/*.data.br
   Content-Type: application/octet-stream
